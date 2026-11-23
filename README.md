@@ -2,9 +2,9 @@
 
 OmniLearn is an AI-assisted learning project focused on guided instruction, practice, review, and learner-controlled knowledge records.
 
-**Founder:** Mark Henshaw  
-**Creator:** Mark Henshaw  
-**Owner:** Mark Henshaw (project attribution supplied by the founder)
+**Founder:** Mark Henshall  
+**Creator:** Mark Henshall  
+**Owner:** Mark Henshall (project attribution supplied by the founder)
 
 ## Project components
 
